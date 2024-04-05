@@ -1,0 +1,24 @@
+.List {
+	color: #CCCCCC;
+	font-size: 3em;
+}
+
+.ListItem {
+	margin-bottom: 30px;
+	display: flex;
+	align-items: flex-start;
+	justify-content: space-between;
+}
+
+.ListItem:hover {
+	color: white;
+}
+
+.IconButton {
+	visibility: hidden;
+}
+
+.ListItem:hover .IconButton {
+	visibility: visible;
+}
+
