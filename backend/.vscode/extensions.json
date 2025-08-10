@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "akamud.vscode-theme-onedark",
+    "dbaeumer.vscode-eslint",
+    "github.copilot",
+    "github.copilot-chat",
+    "eamodio.gitlens",
+    "pkief.material-icon-theme",
+    "esbenp.prettier-vscode",
+    "yoavbls.pretty-ts-errors",
+    "gruntfuggly.todo-tree"
+  ]
+}

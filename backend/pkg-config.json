@@ -1,0 +1,4 @@
+{
+  "outputPath": "bin/Links",
+  "targets": ["node22-macos-arm64"]
+}
